@@ -47,3 +47,11 @@ mv %{pkgname}-%{version}/DESCRIPTION .
 %defattr(-,root,root)
 %doc COPYING DESCRIPTION
 %{_datadir}/octave/packages/%{pkgname}-%{version}
+
+
+%changelog
+* Tue Jun 28 2011 Lev Givon <lev@mandriva.org> 1.1.1-1mdv2011.0
++ Revision: 687744
+- import octave-benchmark
+
+
