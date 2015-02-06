@@ -3,7 +3,7 @@
 Summary:	Code for benchmarking the speed of Octave
 Name:		octave-%{pkgname}
 Version:	1.1.1
-Release:	2
+Release:	3
 Source0:	%{pkgname}-%{version}.tar.gz
 License:	GPLv2+
 Group:		Sciences/Mathematics
